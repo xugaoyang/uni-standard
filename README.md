@@ -1,2 +1,2 @@
-# uni-standard
-mobile system for any platform
+# uniapp-standard
+mobile system for any platform.自研用.
